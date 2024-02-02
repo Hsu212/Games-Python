@@ -1,1 +1,1 @@
-This is the Quiz game for computer science students. i hope you will like it:)
+These are the PyGames for practice. I filled some parts to be the better games. I hope you will like it:)
